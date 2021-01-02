@@ -1,2 +1,2 @@
-# priority queue (PQ) for a taxi application simulationusing the binary heap data structure
-
+# Taxi Application Simulation  
+## Binary heap data structure
