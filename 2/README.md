@@ -1,2 +1,2 @@
 # Taxi Application Simulation  
-## Binary heap data structure
+Priority Queue using the binary heap data structure
