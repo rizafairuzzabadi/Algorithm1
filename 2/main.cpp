@@ -15,7 +15,6 @@ struct taxis
 };
 
 class BinaryHeap
-
 {
 private:
     vector<double> heap;
@@ -37,7 +36,6 @@ public:
 
 long double toRadians(const long double degree)
 {
-
     long double one_deg = (M_PI) / 180;
     return (one_deg * degree);
 }
