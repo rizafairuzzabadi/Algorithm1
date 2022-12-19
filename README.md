@@ -1,2 +1,1 @@
-# algorithm1
-Analysis of Algorithms 1
+Compilation of algorithms-implementing projects written in C++
